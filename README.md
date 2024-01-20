@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Talha Latif.</h1>
 <h3 align="center">A passionate Web and App developer from Pakistan</h3>
