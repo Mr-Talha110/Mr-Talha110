@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-talha110&label=Profile%20views&color=0e75b6&style=flat" alt="mr-talha110" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Apps**
+- 🔭 I’m currently working on **Crypto Wallet App**
 
 - 🌱 I’m currently learning **Flutter, Dart,  Firebase, Swift**
 
