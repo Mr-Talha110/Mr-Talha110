@@ -6,7 +6,7 @@
 <!-- ===================== TYPING INTRO ===================== -->
 <p align="center">
   <a href="https://github.com/Mr-Talha110">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=520&lines=Flutter+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+Crypto+Wallet+Apps+%F0%9F%92%B0;Making+Games+with+Flutter+Flame+%F0%9F%8E%AE;One+Codebase.+Every+Platform." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=520&lines=Flutter+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+Health+%26+Fintech+Apps+%F0%9F%92%99;Making+Games+with+Flutter+Flame+%F0%9F%8E%AE;One+Codebase.+Every+Platform." alt="Typing SVG" />
   </a>
 </p>
 
@@ -43,7 +43,8 @@ class Talha extends StatelessWidget {
 }
 ```
 
-- 🔭 Currently building **Crypto Wallet Apps** in Flutter
+- 🔭 Currently building **health & fintech apps** in Flutter
+- 💙 Into **secure payments, wearable data & HIPAA-minded app design**
 - 🎮 Exploring **Flutter Flame** for 2D mobile games
 - 🌱 Levelling up on **Swift, Firebase & clean architecture**
 - 👯 Open to collaborate on **Flutter games & open-source packages**
@@ -108,7 +109,8 @@ class Talha extends StatelessWidget {
 
 | Project | Description | Stack |
 |---|---|---|
-| **Crypto Wallet App** | Multi-chain wallet with secure key storage, live prices & swap flow | `Flutter` `Dart` `Web3` |
+| **Health App** | Activity & vitals tracking with wearable sync and clean offline-first storage | `Flutter` `Dart` `Firebase` |
+| **Fintech App** | Payments, transaction history & KYC flows with biometric-secured auth | `Flutter` `REST API` `Firebase` |
 | **Flutter Flame Game** | 2D mobile game built on the Flame engine with custom physics | `Flutter` `Flame` |
 | **_Your next repo_** | Pin your best repos on your profile so they land right here | `Flutter` |
 
@@ -124,8 +126,21 @@ class Talha extends StatelessWidget {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Talha110&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Talha110&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Talha110&theme=tokyonight" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Talha110&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Talha110&theme=tokyonight" alt="Profile stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-Talha110&theme=tokyonight&utcOffset=5" alt="Productive time" />
+
+<!--
+  Once you deploy your own github-readme-stats instance on Vercel,
+  swap YOUR-APP below and uncomment to bring these two cards back:
+
+  <img width="49%" src="https://YOUR-APP.vercel.app/api?username=Mr-Talha110&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="41%" src="https://YOUR-APP.vercel.app/api/top-langs?username=Mr-Talha110&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+-->
 </p>
 
 ---
