@@ -20,24 +20,26 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mr-Talha110&label=Profile%20Views&color=13B9FD&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Mr-Talha110?label=Followers&style=flat-square&color=13B9FD" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Mobile-02569B?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/github/stars/Mr-Talha110?label=Stars&style=flat-square&color=13B9FD" alt="stars" />
 </p>
 
 ---
 
 <!-- ===================== ABOUT ===================== -->
-<img align="right" width="330" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" />
-
 ### 👨‍💻 About Me
 
 ```dart
-class TalhaLatif extends StatelessWidget {
+class Talha extends StatelessWidget {
   final String role = 'Mobile App Developer';
-  final String location = 'Pakistan 🇵🇰';
-  final List<String> stack = ['Flutter', 'Dart', 'Firebase', 'Swift'];
+  final String from = 'Pakistan';
+  final List<String> stack = [
+    'Flutter', 'Dart', 'Firebase', 'Swift',
+  ];
 
   @override
-  Widget build(BuildContext context) => const Text('Ship fast, ship smooth. 🚀');
+  Widget build(BuildContext context) {
+    return const Text('Ship fast, ship smooth.');
+  }
 }
 ```
 
@@ -48,8 +50,6 @@ class TalhaLatif extends StatelessWidget {
 - 💬 Ask me about **Flutter, Dart, state management & Play Store releases**
 - 📫 Reach me at **talhalatif636@gmail.com**
 - ⚡ Fun fact: *Why are programmers bad at relationships? They can't handle the commitment issues.*
-
-<br clear="right" />
 
 ---
 
@@ -120,20 +120,12 @@ class TalhaLatif extends StatelessWidget {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Talha110&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Talha110&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mr-Talha110&hide_border=true&theme=tokyonight&card_width=500" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Mr-Talha110&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Talha110&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Talha110&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Talha110&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Talha110&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
 </p>
 
 ---
